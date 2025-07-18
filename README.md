@@ -2,7 +2,7 @@
 
 A sleek, interactive AI chatbot clone inspired by Google's Gemini. Built using **Flask**, **Tailwind CSS**, and **JavaScript**, this project simulates an intelligent AI chat experience with futuristic visuals and animations.
 
-![screenshot](https://your-screenshot-link-if-any.png)
+<img width="1905" height="906" alt="image" src="https://github.com/user-attachments/assets/c73969e8-2960-4a36-9991-c4021ce2e586" />
 
 ---
 
